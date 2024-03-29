@@ -1,3 +1,13 @@
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  </div>
+  <div align="center">
+    <p><strong> About me: </strong></p>
+<p>⌨️ I’m currently working on enhancing my skills in .Net-Core  and Angular!.</p>
+<p>💬 Ask me about anything.</p>
+<p>🎮 My hobbies: Chess, Reading , Video Games. </p>
+<p>📞 How to reach me: <a href="mailto:egeumuttali@hotmail.com">egeumuttali@hotmail.com</a></p>
+    
+
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
